@@ -18,7 +18,7 @@ In cases where the number of pairs in the result does not match the input, indic
 
 
 **Time complexity:**
-O(V+E)O(V+E)O(V+E)
+O(V+E)
 
 **Space complexity:**
-O(V+E)O(V+E)O(V+E)
+O(V+E)
